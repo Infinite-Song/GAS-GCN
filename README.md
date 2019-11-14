@@ -1,3 +1,3 @@
 # GAS-GCN
-The implement of GAS-GCN.
-We will update the code as soon as possible
+This is the repo for the GAS-GCN.
+We will release the code as soon as possible.
